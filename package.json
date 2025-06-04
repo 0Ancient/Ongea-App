@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@react-native-community/audio-toolkit": "^2.0.3",
+    "expo-av": "^15.1.4"
+  }
+}

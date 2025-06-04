@@ -1,1 +1,1 @@
-{"name":"OngeaApp","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"react-native":"0.79.2"}}
+{"name":"OngeaApp","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"@react-navigation/native":"^7.1.10","@react-navigation/stack":"^7.3.3","react-native":"0.79.2","react-native-vector-icons":"^10.2.0","react-native-waveform":"^0.2.1"}}
