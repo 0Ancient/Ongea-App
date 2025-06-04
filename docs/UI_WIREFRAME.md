@@ -8,7 +8,7 @@
 ## 1. Onboarding Screen
 
 ## 2. Home Feed
-▶️ Play | ♻️ Echo (12) | 💬 Reply (3)
+▶️ Play | ♻️ Echo (12) | 💬 Reply (3)  
 -------------------------
 
 [+] (Floating Record Button)
@@ -17,9 +17,7 @@
 ## 3. Voice Recorder
 ```
 [00:15] (Timer)
-
 [● HOLD TO RECORD]
-
 [🗑️ Delete] [✔️ Post]
 ```
 
@@ -41,9 +39,10 @@ Home | Discover | [+] | Notifications | Profile
 ```
 
 ## Assets Needed
-- Icons: ▶️, ♻️, 💬
-- Colours: 
-  - Primary: `#10B981`
-  - Background: `#111827`
-  - Text: `#FFFFFF`
+- Icons: ▶️, ♻️, 💬  
+- Colors:  
+  - Primary: `#10B981`  
+  - Background: `#111827`  
+  - Text: `#FFFFFF`  
 ```
+
