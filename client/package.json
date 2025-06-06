@@ -1,1 +1,43 @@
-{"name":"OngeaApp","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"@react-navigation/native":"^7.1.10","@react-navigation/stack":"^7.3.3","react-native":"0.79.2","react-native-vector-icons":"^10.2.0","react-native-waveform":"^0.2.1"}}
+{
+  "name": "OngeaApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-navigation/native": "^6.x.x",
+    "@react-navigation/stack": "^6.x.x",
+    "expo-av": "~13.x.x",
+    "react": "18.x.x",
+    "react-native": "^0.79.3",
+    "react-native-gesture-handler": "^2.x.x",
+    "react-native-reanimated": "^2.x.x",
+    "react-native-safe-area-context": "^4.x.x",
+    "react-native-screens": "^3.x.x",
+    "react-native-vector-icons": "^9.x.x",
+    "react-native-waveform": "^0.2.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.x.x",
+    "@babel/runtime": "^7.x.x",
+    "@react-native-community/cli": "^10.x.x",
+    "@types/jest": "^29.x.x",
+    "@types/react": "^18.x.x",
+    "@types/react-native": "^0.70.x",
+    "@types/react-test-renderer": "^18.x.x",
+    "babel-jest": "^29.x.x",
+    "eslint": "^8.x.x",
+    "jest": "^29.x.x",
+    "metro-react-native-babel-preset": "^0.72.x",
+    "react-test-renderer": "18.x.x",
+    "typescript": "^4.x.x"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
